@@ -204,3 +204,39 @@ vi july.sh
 sh july.sh
 vi july.sh
 su - july
+sudo yum update
+yum install git
+git --version
+ll
+ls -la
+git init.
+git init .
+ls -la
+git status
+git add .
+git status
+git commit -m "adding all the files"
+git status
+
+git remote add origin https://github.com/gopikat44/july2022.git
+git branch
+git push -u origin master
+git push -u origin master 
+git push -u origin master
+clear
+ll
+git --version
+ls -la
+git status
+git add .
+git status
+git remote add origin https://github.com/gopikat44/patch-44.git
+git branch
+git push -u origin master
+user aa
+g
+cat/etc/pasword
+cat /etc/ passwd
+cat / etc / passwd
+cat /etc/ passwd
+cat/ etc /paswd
